@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dhirajnikam/Desktop/maa/build/url_launcher_android/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/dhirajnikam/.gradle/caches/transforms-2/files-2.1/3bc2a8ad9a8534679a847467843895a0/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/dhirajnikam/Desktop/maa/build/url_launcher_android/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/dhirajnikam/.gradle/caches/transforms-2/files-2.1/3bc2a8ad9a8534679a847467843895a0/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/dhirajnikam/Desktop/maa/build/url_launcher_android/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/dhirajnikam/.gradle/caches/transforms-2/files-2.1/3bc2a8ad9a8534679a847467843895a0/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/dhirajnikam/Desktop/maa/build/url_launcher_android/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/dhirajnikam/.gradle/caches/transforms-2/files-2.1/3bc2a8ad9a8534679a847467843895a0/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]

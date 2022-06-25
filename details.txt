@@ -1,0 +1,18 @@
+MAA - Medical Aid analysis 
+
+Flutter -- Siddhant rucha 
+Flask -- Suyash Varun 
+
+tasks
+	Otp Verification
+
+	info page
+		first para basic info chronic disease
+		second para is precautions
+		
+
+	Dashboard
+		Home page home page 
+		info
+		Profile
+		

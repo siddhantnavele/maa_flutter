@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dhirajnikam/Desktop/maa/build/fluttertoast/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/dhirajnikam/.gradle/caches/transforms-2/files-2.1/3bc2a8ad9a8534679a847467843895a0/core-1.6.0/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/dhirajnikam/Desktop/maa/build/fluttertoast/intermediates/res/merged/release/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/dhirajnikam/.gradle/caches/transforms-2/files-2.1/3bc2a8ad9a8534679a847467843895a0/core-1.6.0/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

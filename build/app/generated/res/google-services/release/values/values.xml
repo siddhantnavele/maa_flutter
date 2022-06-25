@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">387538503905-kb108sqgja5hodqthcrfpoee5mm7hrct.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://medical-aid-analysis-2bce8-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">387538503905</string>
+    <string name="google_api_key" translatable="false">AIzaSyDSlo1KNSyuNSkrvhXkTDh0OtgE_qIVsjo</string>
+    <string name="google_app_id" translatable="false">1:387538503905:android:76fc24d1c26ce8dc99cfa0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDSlo1KNSyuNSkrvhXkTDh0OtgE_qIVsjo</string>
+    <string name="google_storage_bucket" translatable="false">medical-aid-analysis-2bce8.appspot.com</string>
+    <string name="project_id" translatable="false">medical-aid-analysis-2bce8</string>
+</resources>
